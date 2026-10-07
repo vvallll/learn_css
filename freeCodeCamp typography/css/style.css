@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&family=Pixelify+Sans:wght@400..700&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 1.2rem;
+    color: #333;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+button, input {
+    font-family: inherit;
+    font-size: 0.875rem;
+    line-height: 1.5;
+}
+
+p {
+    /* text-decoration: underline;
+    text-decoration-color: #8a5252;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px; */
+    /* text-transform: uppercase; */
+    /* text-align: center; */
+    /* text-indent: 2em; */
+    line-height: 1.6;
+    /* letter-spacing: 0.1em; */
+    /* word-spacing: 0.1em; */
+    /* font-weight: bold; */
+    /* font-style: oblique; */
+}

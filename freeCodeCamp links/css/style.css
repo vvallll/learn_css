@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&family=Pixelify+Sans:wght@400..700&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 1.2rem;
+    color: #333;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #8a5252;
+}
+
+/* a:visited {
+    color: #c83f91;
+} */
+
+a:hover, a:focus {
+    color: #c83f91;
+    text-decoration: underline;
+    text-decoration-color: #8a5252;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+
+a:active {
+    color: #c83f91;
+    opacity: 0.5;
+    text-decoration: underline;
+    text-decoration-color: #8a5252;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
